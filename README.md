@@ -2,7 +2,7 @@
 
 **i'm vito7** - a back-end developer, discord enthusiast and high school student; probably just working in some random projects :)
 
-[![skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,mongodb,firebase,postgres)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=ts,js,rust,go,nextjs,react,mongodb,firebase,postgres,heroku)](https://skillicons.dev)
 <br>^ these are some of my skills
 
 ![status](https://dev.discordprofiles.me/badge/status/762079458249146388?simple=true)
