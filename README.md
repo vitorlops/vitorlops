@@ -5,11 +5,6 @@
 [![skills](https://skillicons.dev/icons?i=ts,js,rust,go,nextjs,react,mongodb,firebase,postgres,heroku)](https://skillicons.dev)
 <br>^ these are some of my skills
 
-![status](https://dev.discordprofiles.me/badge/status/762079458249146388?simple=true)
-![playing](https://dev.discordprofiles.me/badge/playing/762079458249146388)
-![vscode](https://dev.discordprofiles.me/badge/vscode/762079458249146388)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/762079458249146388)](https://dev.discordprofiles.me/openspotify/762079458249146388)
-
 <!--
 **vitorlops/vitorlops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
